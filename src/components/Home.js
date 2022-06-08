@@ -1,13 +1,7 @@
 
 
 import React from 'react'
-import { AudioPlayerProvider } from "react-use-audio-player"
-import myfile from '../audiofiles/myfile.mp3'
 
-const audioClips=[
-  {sound :myfile,lable :"myfile"}
-]
-import { useState } from 'react'
 export default function Home() {
   // const [playpause, setPlaypause] = useState(false);
 
